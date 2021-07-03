@@ -1,0 +1,7 @@
+string template literals
+string replace method
+string interpolation strategy
+for-loop
+Javascript array (filter, find methods)
+Document Object Model (insert and remove child elements from screen)
+Javascript objects
